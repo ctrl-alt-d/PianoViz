@@ -1,0 +1,2 @@
+p5js: https://p5js.org/copyright.html
+midiconvert: https://github.com/Tonejs/MidiConvert
