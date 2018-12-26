@@ -1,10 +1,11 @@
 # PianoViz
-## Visualització de partitura per a piano
 ### Piano Hero
 
-![](./master/assets/piano-gif.gif)
+![](https://raw.githubusercontent.com/ctrl-alt-d/PianoViz/master/docs/assets/piano-gif.gif)
 
-[CAT]
+## Visualització de partitura per a piano
+
+`[CAT]`
 
 1. Connecta el piano al teu piano MIDI al teu ordinador / tablet.
 2. Obra la demo: https://ctrl-alt-d.github.io/PianoViz/
@@ -16,7 +17,7 @@
 
 Aquest codi està escrit usant les llibreries [P5*JS](https://p5js.org/) (GNU) i [MidiConvert](https://github.com/Tonejs/MidiConvert) (MIT). Comprova la llicència de les llibreries per a més detalls.
 
-[EN]
+`[EN]`
 
 1. Connect MIDI piano to your device.
 2. Open demo: https://ctrl-alt-d.github.io/PianoViz/
