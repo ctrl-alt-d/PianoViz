@@ -19,7 +19,7 @@ Aquest codi està escrit usant les llibreries [P5*JS](https://p5js.org/) (GNU) i
 
 `[EN]`
 
-1. Connect MIDI piano to your device.
+1. [optional] Connect MIDI piano to your device.
 2. Open demo: https://ctrl-alt-d.github.io/PianoViz/
 3. Enjoy.
 
