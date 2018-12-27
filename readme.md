@@ -7,7 +7,7 @@
 
 `[CAT]`
 
-1. Connecta el piano al teu piano MIDI al teu ordinador / tablet.
+1. [opional] Connecta el piano al teu piano MIDI al teu ordinador / tablet.
 2. Obra la demo: https://ctrl-alt-d.github.io/PianoViz/
 3. Disfruta.
 
