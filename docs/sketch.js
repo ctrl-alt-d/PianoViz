@@ -89,8 +89,10 @@ function onMIDISuccess(midiDataParm) {
 
 function gotMIDImessage(messageData) {
     midiSuccess = true;
+    console.info(messageData);
     if ( messageData.data[0] == 144 )
     {
+        console.info("tecla");
         tecles[ messageData.data[1] ].estapremuda = ( messageData.data[2] != 0 );
     }        
 }
